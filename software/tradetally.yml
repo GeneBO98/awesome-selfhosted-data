@@ -1,0 +1,11 @@
+name: TradeTally
+website_url: https://tradetally.io/
+source_code_url: https://github.com/GeneBO98/tradetally
+description: Trading journal and analytics for tracking trades, P&L and performance across multiple brokers (alternative to TradeZella, Tradervue, Edgewonk).
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Nodejs
+tags:
+  - Money, Budgeting & Management
